@@ -1,0 +1,4 @@
+streamlit>=1.57
+SpeechRecognition>=3.14
+gTTS>=2.5
+deep-translator>=1.11
